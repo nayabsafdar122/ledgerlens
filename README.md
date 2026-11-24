@@ -1,5 +1,7 @@
 # 🧾 LedgerLens — AI Invoice & Document Extraction
 
+**🌐 Live demo: https://ledgerlens-delta.vercel.app**
+
 ![LedgerLens review screen](docs/review.jpg)
 
 LedgerLens turns invoices, receipts and scanned bills into clean, validated accounting data.
